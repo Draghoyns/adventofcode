@@ -23,11 +23,16 @@ def main_part2(input) -> int:
 
 def test_ex1():
     # TODO
+    input = process_input(example)
+    part1 = main_part1(input)
     assert False
 
 
 def test_ex2():
     # TODO
+    input = process_input(example)
+    part2 = main_part2(input)
+
     assert False
 
 

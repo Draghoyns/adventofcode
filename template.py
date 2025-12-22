@@ -23,12 +23,12 @@ def main_part2(input) -> int:
 
 def test_ex1():
     # TODO
-    assert True
+    assert False
 
 
 def test_ex2():
     # TODO
-    assert True
+    assert False
 
 
 if __name__ == "__main__":
